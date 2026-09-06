@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://herramientas-rapidas.example.com/sitemap.xml
